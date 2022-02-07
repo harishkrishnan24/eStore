@@ -8,8 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ProductsService" />
-        <module name="DiscoveryServer" />
         <module name="ApiGateway" />
+        <module name="DiscoveryServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
